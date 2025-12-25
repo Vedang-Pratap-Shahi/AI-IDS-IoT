@@ -6,8 +6,6 @@ We can briefly define IoT as the internet of things. IoT represents smart device
 
 
 
-# Paper
-
 # Dataset (IoTID20)
 
 The exponential growth of the Internet of Things (IoT) devices provides a large attack surface for intruders to launch more destructive cyber-attacks. The intruder aimed to exhaust the target IoT network resources with malicious activity. New techniques and detection algorithms required a well-designed dataset for IoT networks. We proposed a new dataset, namely IoTID20, generated dataset from [1]. The new IoT botnet dataset has a more comprehensive network and flow-based features. The flow-based feature can be used to analyze and evaluate a flow-based intrusion detection system. Our proposed IoT botnet dataset will provide a reference point to identify anomalous activity across the IoT networks. The IoT Botnet dataset can be accessed from [2]. The new IoTID20 dataset will provide a foundation for the development of new intrusion detection techniques in IoT networks.
@@ -119,8 +117,7 @@ Source [2]: https://arxiv.org/abs/1602.02830
 
 
 # Contact for Questions and Suggestions
-* e.kurt2552@gmail.com
-* havvabzmr@gmail.com
+* vedang.shahi18@gmail.com
 
 
 
